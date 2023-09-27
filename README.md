@@ -20,6 +20,6 @@ Imagine que você está visitando o site do G1/Globo e um pop-up irritante apare
 
 3 - Configurar da seguinte forma
 
-<img width="831" alt="image" src="https://github.com/ohrafaelmartins/g1-anti-ad-blocker/assets/15790926/a1577e9c-878f-429d-b8f0-5b75065aab93">
+<img width="828" alt="image" src="https://github.com/ohrafaelmartins/g1-anti-ad-blocker/assets/15790926/31b4fccf-d3f2-462d-8cb1-45297284108d">  
 
 4 - Aproveite
